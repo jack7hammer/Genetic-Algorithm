@@ -1,6 +1,6 @@
 ## PROBLEM STATEMENT : 
 
-# Travellign salesman problem
+# Travelling salesman problem
 he Travelling Salesman Problem describes a salesman who must travel between N cities.
 The order in which he does so is something he does not care about, as long as he visits each once during his trip,
 and finishes where he was at first.
